@@ -24,7 +24,9 @@ Afin que les clients puissent contacter le propriétaire du site, le formulaire 
 
 ![Capture](https://image.noelshack.com/fichiers/2019/14/3/1554294635-capture4.png)
 
+Enfin, le bas de page : Footer, n'était pas encore présent. Ce fut donc une des demandes
 
+![Capture](https://image.noelshack.com/fichiers/2019/14/3/1554294635-capture5.png)
 
 ### Outils mis à disposition
 
