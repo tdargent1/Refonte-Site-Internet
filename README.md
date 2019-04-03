@@ -20,6 +20,11 @@ De même, le site mettant à disposition un diaporama, le but fut de diminuer la
 
 ![Capture](https://image.noelshack.com/fichiers/2019/14/3/1554294635-capture3.png)
 
+Afin que les clients puissent contacter le propriétaire du site, le formulaire de contact fut amélioré et redessiné
+
+![Capture](https://image.noelshack.com/fichiers/2019/14/3/1554294635-capture4.png)
+
+
 
 ### Outils mis à disposition
 
