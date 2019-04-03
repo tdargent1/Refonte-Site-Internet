@@ -16,3 +16,15 @@ Ensuite, le commanditaire proposant plusieurs savoirs-faire il fut nécessaire d
 
 ![Capture](https://image.noelshack.com/fichiers/2019/14/3/1554294635-capture2.png)
 
+De même, le site mettant à disposition un diaporama, le but fut de diminuer la hauteur affiliée à cet élément ainsi que de rajouter le texte et les nouvelles images.
+
+![Capture](https://image.noelshack.com/fichiers/2019/14/3/1554294635-capture3.png)
+
+
+### Outils mis à disposition
+
+* WordPress
+* CSS
+* HTML
+* DIVI (Thème WordPress)
+
